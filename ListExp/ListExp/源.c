@@ -26,3 +26,4 @@ void DeleteK(SqList* a, int i, int k)
 	}
 	a->length -= k;
 }
+

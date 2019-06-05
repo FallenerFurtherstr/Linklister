@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Project1\Status.h">
+    <ClInclude Include="Status.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
